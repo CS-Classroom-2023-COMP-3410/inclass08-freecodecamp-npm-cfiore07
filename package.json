@@ -9,6 +9,16 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
-	}
+		"url": "git+https://github.com/freeCodeCamp/boilerplate-npm.git"
+	},
+	"version": "1.0.0",
+	"description": "a cool project that does cool stuff",
+	"devDependencies": {},
+	"author": "Colin Fiore",
+	"keywords": ["freecodecamp", "project", "inclassassignment"],
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
+	},
+	"homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme"
 }
